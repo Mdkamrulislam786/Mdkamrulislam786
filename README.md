@@ -1,4 +1,4 @@
-### Hey 👋, I'm Kamrul
+### Hey 👋, I'm Kamrul a passionate javascript developer
 
 <a href="https://www.linkedin.com/in/kamrulislam-kris/">
   <img align="left" alt="Kamrul's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
