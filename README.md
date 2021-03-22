@@ -1,4 +1,4 @@
-### Hey 👋, I'm Mehdi
+### Hey 👋, I'm Kamrul
 
 <a href="https://www.linkedin.com/in/mehdimabrouki/">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi there, I'm **Mehdi Mabrouki**, a **Kaggle Competitions Expert** ( Ranked Top 1% Worldwide 🌍 ) and a **Software Engineering student** 🚀 from Tunisia.  Currently, I'm a Community Team Member 🙍🏽‍♂️ [@CallmeMehdi](https://github.com/CallmeMehdi), Kaggler 👨🏽‍💻 [@Kaggle](https://www.kaggle.com/mehdimabrouki), and an Artificial Intelligence intern 👨🏽‍💼. 
+Hi there, I'm **Kamrul Islam**, a **React JS** enthusiast and full stack javascript developer 🚀 from Bangladesh. I'm very passionate about Front end dev with React. I love to learn and improve myskills everyday. Got 2+ years of experience in web development. Looking for new opportunities to prove and improve myself.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
