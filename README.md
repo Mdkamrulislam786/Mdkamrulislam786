@@ -40,3 +40,4 @@ I'm **Kamrul Islam**, a **React JS** enthusiast and full stack javascript develo
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 <Code><img height="20" src="https://www.pngfind.com/pngs/m/136-1363736_express-js-icon-png-transparent-png.png"></code>
 <code><img height="20" src="https://davidwalsh.name/demo/graphql-intro/graphql.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png"></code>
