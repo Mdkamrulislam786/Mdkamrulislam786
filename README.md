@@ -25,7 +25,7 @@ I'm **Kamrul Islam**, a **React JS** enthusiast and full stack javascript develo
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kamrulislam.ki01@gmail.com to reach me.
-- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1DzufttFQxeBV7KwUJxhG3V6M7PRpqcBB/view?usp=sharing) to get more info.
+- 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1akS_OMY7Vyd8vRZ2SX7CdjpRHudKTh6_/view?usp=sharing) to get more info.
 - 🤔 My hobbies are playing guiter, bike riding , singing, travelling.
 
 
