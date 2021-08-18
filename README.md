@@ -13,7 +13,7 @@
 <br />
 <br />
 
-I'm **Kamrul Islam**, a **React JS** enthusiast and full stack javascript developer 🚀 from Bangladesh. I'm very passionate about Front end dev with React. I love to learn and improve myskills everyday. Build Full stack and front end app like E-Commerece, Restaurants, CRM, Google,Netflix,Airbnb Clone and many Custome web apps. Got 2+ years of experience in web development. Looking for new opportunities to prove and improve myself.
+I'm **Kamrul Islam**, a **React JS** enthusiast and full stack javascript developer 🚀 from Bangladesh. I'm very passionate about Front end dev with React. I love to learn and improve myskills everyday. Build Full stack and front end app like E-Commerece, Sass HR platform, Restaurants, CRM, Google,Netflix,Airbnb Clone and many Custome web apps. Got 2+ years of experience in web development. Looking for new opportunities to prove and improve myself.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
