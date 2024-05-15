@@ -13,20 +13,20 @@
 <br />
 <br />
 
-I'm **Kamrul Islam**, a **React JS** enthusiast and full stack javascript developer 🚀 from Bangladesh. I'm very passionate about Front end dev with React. I love to learn and improve myskills everyday. Build Full stack and front end app like E-Commerece, Sass HR platform, Restaurants, CRM, Google,Netflix,Airbnb Clone and many Custome web apps. Got 2+ years of experience in web development. Looking for new opportunities to prove and improve myself.
+I'm **Kamrul Islam**, a **React JS** enthusiast and javascript developer 🚀 from Bangladesh. I'm very passionate about front-end dev. I love to learn and improve my skills every day. I have proven experience at bongobd.com, ostad.app, loop freight, and more. I have 3+ years of experience in web development. Looking for new challenges and innovative team
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m open for Frontend developer opportunity;
-- 🌱 I’m currently working as an Associate frontend developer intern with a well known Startup in dhaka,Bangladesh. ; 
-- 🤔 My interests are with React/Next JS and learning to be the best front end developer that i can be..;
-- 💼 I’m pursuing a Bachelor's degree in Software Engineering at Yunnan University,China;
+- 👨🏽‍💻 I’m open to Frontend developer opportunities;
+- 🌱 I’m currently working as an Associate frontend developer intern with a well-known Startup in dhaka, Bangladesh. ; 
+- 🤔 My interests are with React/Next JS and learning to be the best front-end developer that I can be..;
+- 💼 I’m pursuing a Bachelor's degree in Software Engineering at Yunnan University, China;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kamrulislam.ki01@gmail.com to reach me.
 - 📝 See my [Curriculum Vitae](https://drive.google.com/file/d/1akS_OMY7Vyd8vRZ2SX7CdjpRHudKTh6_/view?usp=sharing) to get more info.
-- 🤔 My hobbies are playing guiter, bike riding , singing, travelling.
+- 🤔 My hobbies are playing guitar, bike riding, singing, and traveling.
 
 
 **Languages and Tools:**  
