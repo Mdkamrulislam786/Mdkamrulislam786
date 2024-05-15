@@ -20,7 +20,7 @@ I'm **Kamrul Islam**, a **React JS** enthusiast and javascript developer 🚀 fr
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m open to Frontend developer opportunities;
-- 🌱 I’m currently working as an Associate frontend developer intern with a well-known Startup in dhaka, Bangladesh. ; 
+- 🌱 I’m currently working as a frontend engineer with a well-known Startup in Dhaka, Bangladesh. ; 
 - 🤔 My interests are with React/Next JS and learning to be the best front-end developer that I can be..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering at Yunnan University, China;
 - 💬 Ask me about anything, I am happy to help;
