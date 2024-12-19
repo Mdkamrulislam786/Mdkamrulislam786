@@ -13,11 +13,11 @@
 <br />
 <br />
 
-I'm **Kamrul Islam**, a **React JS** enthusiast and javascript developer 🚀 from Bangladesh. I'm very passionate about front-end dev. I love to learn and improve my skills every day. I have proven experience at bongobd.com, ostad.app, loop freight, and more. I have 3+ years of experience in web development. Looking for new challenges and innovative team
+I'm **Kamrul Islam**, a **React JS** enthusiast and javascript developer 🚀 from Bangladesh. I'm very passionate about front-end dev. I love to learn and improve my skills every day. I have proven experience at bongobd.com, ostad.app, loop freight, and more. I have 4 years of experience in web development. Looking for new challenges and innovative team
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**Talking about Personal Stuffs:**
+**Talking about Personal Stuff:**
 
 - 👨🏽‍💻 I’m open to Frontend developer opportunities;
 - 🌱 I’m currently working as a frontend engineer with a well-known Startup in Dhaka, Bangladesh. ; 
